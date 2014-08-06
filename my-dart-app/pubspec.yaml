@@ -1,0 +1,3 @@
+name: my-dart-app
+dependencies:
+  browser: any
